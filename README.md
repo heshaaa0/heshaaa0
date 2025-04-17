@@ -35,8 +35,7 @@ Here are some of my notable projects:
 ## 📫 Let's Connect
 
 - GitHub: [@heshaaa0](https://github.com/heshaaa0)
-- LinkedIn: [Your LinkedIn Profile](#) *(Please provide your LinkedIn URL)*
-- Personal Website: [Your Website](#) *(Please provide your website URL)*
+- LinkedIn: [Hesha Edmon](https://www.linkedin.com/in/hesha-edmon-64b63a252/)
 
 ---
 
