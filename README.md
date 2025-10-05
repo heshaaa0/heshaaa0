@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript, TypeScript, Python, Java, HTML
-- **Frameworks & Libraries:** React, Node.js
+- **Frameworks & Libraries:** React, Node.js , Next.js
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
 ---
