@@ -14,17 +14,6 @@
 
 ---
 
-## 🚀 Projects
-
-Here are some of my notable projects:
-
-- [**Pentest2023recruitment**](https://github.com/heshaaa0/Pentest2023recruitment): A project focused on penetration testing methodologies.
-- [**ACM_Task_-Heshaja-**](https://github.com/heshaaa0/ACM_Task_-Heshaja-): Tasks and solutions related to ACM challenges.
-- [**VulnForgeX**](https://github.com/heshaaa0/VulnForgeX): A collection of vulnerability exploitation scripts and tools.
-- [**Portfolio**](https://github.com/heshaaa0/Portfolio): My personal portfolio showcasing my work and skills.
-
----
-
 ## 🏆 Achievements
 
 - Contributed to over 29 repositories on GitHub.
